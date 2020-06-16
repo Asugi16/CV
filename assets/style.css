@@ -1,0 +1,97 @@
+.espace {
+    background-color: #FAEB46;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    font-size: large;
+    margin-top: 200px;
+    margin-left: 200px;
+    padding-left: 30px;
+    padding-right: 40px;
+    padding-top: 100px;
+    box-sizing: inherit;
+    line-height: 30px;
+}
+.gestion {
+    background-color: #FA76B8;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    margin-left: 1100px;
+    font-size: large;
+    line-height: 30px;
+    padding-right: 40px;
+    padding-top: 100px;
+    padding-left: 20px;
+    text-align: center;
+}
+.com {
+    background-color: rgb(248, 149, 55);
+    width: 500px;
+    height: 500px;
+    margin-left: 200px;
+    border-radius: 50%;
+    font-size: large;
+    line-height: 30px;
+    padding-right: 20px;
+    padding-top: 50px;
+}
+.mesures {
+    background-color: #52F0CA;
+    margin-left: 1100px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    font-size: large;
+    line-height: 30px;
+    padding-right: 20px;
+    padding-top: 50px;
+}
+.eco {
+    background-color: lightgreen;
+    margin-left: 200px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    font-size: large;
+    line-height: 30px;
+    padding-right: 40px;
+    padding-top: 50px;
+}
+.justice {
+    background-color: lightcoral;
+    width: 500px;
+    height: 500px;
+    margin-left: 1100px;
+    border-radius: 50%;
+    font-size: large;
+    line-height: 30px;
+    padding-right: 20px;
+    padding-top: 50px;
+}
+ul {
+    list-style-type: none;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+}
+h2 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    padding-top: 15px;
+}
+h1 {
+    font-family: serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 100px;
+    color: rgb(48, 27, 82);
+}
+body {
+    background-color: lightgoldenrodyellow;
+  }
+head {
+    background-color: lightgoldenrodyellow;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+.box1 {
+    display: flex;
+    border-bottom: solid 2px rgb(0, 0, 0);
+    justify-content: space-between;
+}
+.box2 {
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.box3 {
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.box4 {
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.date {
+    color: rgb(0, 0, 0);
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
